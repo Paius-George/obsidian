@@ -26,7 +26,7 @@ Broadcast: 192.168.1.63
 
 192.168.1.0/27
 
-Subnet: 255.255.255.
-Hosts: 
-Network: 
-Broadcast: 
+Subnet: 255.255.255.224
+Hosts: 30
+Network: 192.168.1.0
+Broadcast: 192.168.1.31
