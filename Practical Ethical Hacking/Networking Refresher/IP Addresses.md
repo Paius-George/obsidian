@@ -20,4 +20,4 @@ inet6 - IPv6
 128 64 32 16 8 4 2 1
 0     0   0   0  0 0 0 1
 
-net - nettwork 
+NAT - nettwork address translation
