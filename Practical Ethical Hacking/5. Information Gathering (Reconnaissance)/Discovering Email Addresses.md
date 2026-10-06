@@ -3,4 +3,4 @@ https://phonebook.cz
 https://clearbit.com/
 
 Verificare:
-tools.verifyemailaddress.io
+https://tools.verifyemailaddress.io
