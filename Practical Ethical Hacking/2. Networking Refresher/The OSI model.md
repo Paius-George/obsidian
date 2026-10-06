@@ -4,4 +4,4 @@
 4. Transport - TCP/UDP
 5. Session - session managment
 6. Presenation - media: JPG
-7. A
+7. Application - HTTPS, SMTP
