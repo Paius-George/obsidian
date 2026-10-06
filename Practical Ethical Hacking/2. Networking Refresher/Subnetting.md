@@ -13,4 +13,20 @@ CIDR to IPv4: https://www.ipaddressguide.com/cidr
 Subnet: 255.255.252.0
 Hosts: 1022
 Network: 192.168.0.0
-Broadcast: 192.168.2.255
+Broadcast: 192.168.3.255
+
+
+192.168.1.0/26:
+
+Subnet: 
+Hosts: 62
+Network: 
+Broadcast: 
+
+
+192.168.1.0/27
+
+Subnet: 
+Hosts: 
+Network: 
+Broadcast: 
