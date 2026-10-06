@@ -18,15 +18,15 @@ Broadcast: 192.168.3.255
 
 192.168.1.0/26:
 
-Subnet: 
+Subnet: 255.255.255.64
 Hosts: 62
-Network: 
-Broadcast: 
+Network: 192.168.1.0
+Broadcast: 192.168.1.63
 
 
 192.168.1.0/27
 
-Subnet: 
+Subnet: 255.255.255.
 Hosts: 
 Network: 
 Broadcast: 
