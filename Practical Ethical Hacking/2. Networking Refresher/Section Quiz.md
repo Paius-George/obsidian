@@ -4,3 +4,4 @@
 ![[Pasted image 20261006144253.png|609]]
 ![[Pasted image 20261006144344.png|611]]
 ![[Pasted image 20261006144400.png|613]]
+![[Pasted image 20261006144552.png|614]]
