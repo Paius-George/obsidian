@@ -5,3 +5,44 @@
 5. Session - session managment
 6. Presenation - media: JPG
 7. Application - HTTPS, SMTP
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    Physical 
