@@ -45,4 +45,10 @@
    
    
    
-    Physical 
+    Physical - cables
+	 Data - 
+	 Network - IP
+	 Transport - TCP/UDP
+	 Session - managment session
+	 Presentation - media(JPG)
+	 Application - HTTPS, SMB
