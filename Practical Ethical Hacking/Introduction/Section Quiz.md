@@ -2,3 +2,7 @@
 ![[Pasted image 20261006120129.png]]
 ![[Pasted image 20261006120143.png]]
 ![[Pasted image 20261006120155.png]]
+![[Pasted image 20261006120204.png|541]]
+![[Pasted image 20261006120215.png|541]]
+![[Pasted image 20261006120223.png|542]]
+![[Pasted image 20261006120231.png]]![[Pasted image 20261006120241.png|547]]
