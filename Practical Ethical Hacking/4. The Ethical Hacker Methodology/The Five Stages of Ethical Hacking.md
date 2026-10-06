@@ -8,4 +8,4 @@ Obtinere de informatii despre victima.
 Scanare de port-uri, versiuni (nmap), directoare (gobuster).
 # 3. **Exploitation** / **Gaining Access:**
 
-Exploatarea propriu-ziuse
+Exploatarea propriu-zisa a vulnerabilitatilor gasite.
