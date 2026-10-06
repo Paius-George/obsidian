@@ -8,3 +8,5 @@
 ![[Pasted image 20261006144400.png|613]]
 ![[Pasted image 20261006145005.png|615]]
 ![[Pasted image 20261006144552.png|614]]![[Pasted image 20261006144645.png|616]]![[Pasted image 20261006144704.png|617]]![[Pasted image 20261006144732.png|617]]
+![[Pasted image 20261006145106.png|617]]
+![[Pasted image 20261006145133.png|619]]
