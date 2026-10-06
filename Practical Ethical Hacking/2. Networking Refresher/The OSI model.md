@@ -1,7 +1,7 @@
-1. Physical - 
-2. D
-3. N
-4. T
-5. S
-6. P
+1. Physical - data, cables
+2. Data - Switching, MAC addresses
+3. Network - ip addresses, routing
+4. Transport - TCP/UDP
+5. Session - session managment
+6. Presenation - media: JPG
 7. A
