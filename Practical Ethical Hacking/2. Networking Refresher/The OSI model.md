@@ -1,7 +1,7 @@
-1.P
+1. Physical - 
 2. D
-N
-T
-S
-P
-A
+3. N
+4. T
+5. S
+6. P
+7. A
