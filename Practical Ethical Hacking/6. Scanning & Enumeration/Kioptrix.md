@@ -68,3 +68,72 @@ Nmap done: 1 IP address (1 host up) scanned in 21.43 seconds
 
 Pe portul 80 (http):
 ![](../../attachments/Pasted%20image%2020261007122009.png)
+
+Rulare metasploit:
+```
+┌──(paius㉿kali)-[~]
+└─$ msfconsole
+Metasploit tip: Enable HTTP request and response logging with set HttpTrace 
+true
+                                                  
+# cowsay++
+ ____________                                                                                                                                               
+< metasploit >                                                                                                                                              
+ ------------                                                                                                                                               
+       \   ,__,                                                                                                                                             
+        \  (oo)____                                                                                                                                         
+           (__)    )\                                                                                                                                       
+              ||--|| *                                                                                                                                      
+                                                                                                                                                            
+
+       =[ metasploit v6.5.3-dev                                 ]
++ -- --=[ 2,684 exploits - 1,352 auxiliary - 2,604 payloads     ]
++ -- --=[ 436 post - 57 encoders - 14 nops - 12 evasion         ]
+
+Metasploit Documentation: https://docs.metasploit.com/
+The Metasploit Framework is a Rapid7 Open Source Project
+
+msf > search smb_version
+
+Matching Modules
+================
+
+   #  Full Name                          Disclosure Date  Rank    Check  Name
+   -  ---------                          ---------------  ----    -----  ----
+   0  auxiliary/scanner/smb/smb_version  .                normal  No     SMB Version Detection
+
+
+Interact with a module by name or index. For example info 0, use 0 or use auxiliary/scanner/smb/smb_version
+
+msf > use 0
+msf auxiliary(scanner/smb/smb_version) > options
+
+Module options (auxiliary/scanner/smb/smb_version):
+
+   Name     Current Setting  Required  Description
+   ----     ---------------  --------  -----------
+   RHOSTS                    yes       The target host(s), see https://docs.metasploit.com/docs/using-metasploit/basics/using-metasploit.html
+   RPORT                     no        The target port (TCP)
+   THREADS  1                yes       The number of concurrent threads (max one per host)
+
+
+View the full module info with the info, or info -d command.
+
+msf auxiliary(scanner/smb/smb_version) > set RHOSTS 192.168.123.10
+RHOSTS => 192.168.123.10
+msf auxiliary(scanner/smb/smb_version) > set RPORT 139
+RPORT => 139
+msf auxiliary(scanner/smb/smb_version) > set VERBOSE true
+VERBOSE => true
+msf auxiliary(scanner/smb/smb_version) > run
+[*] 192.168.123.10:139    - Force SMB1 since SMB fingerprint needs native_lm/native_os information
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.3.0/gems/recog-3.1.35/lib/recog/fingerprint/regexp_factory.rb:34: warning: nested repeat operator '+' and '?' was replaced with '*' in regular expression
+[*] 192.168.123.10:139    - SMB Detected (versions: ) (preferred dialect: ) (signatures: optional)
+[+] 192.168.123.10:139    -   Host is running Unix
+[*] 192.168.123.10:139    -   Samba 2.2.1a
+[*] 192.168.123.10:139    -   SMB signing is not required
+[*] 192.168.123.10        - Scanned 1 of 1 hosts (100% complete)
+[*] Auxiliary module execution completed
+```
+
+Astfel, versiunea SMB-ului de pe kioptrix este: **
