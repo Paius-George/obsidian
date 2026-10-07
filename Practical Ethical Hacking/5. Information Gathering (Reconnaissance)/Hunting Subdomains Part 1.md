@@ -6,4 +6,4 @@ https://crt.sh:
 sublist3r:
 ![[Pasted image 20261007100038.png]]
 
-tomnomnom httprobe
+tomnomnom httprobe (https://github.com/tomnomnom/httprobe) (verificare websites alive)
