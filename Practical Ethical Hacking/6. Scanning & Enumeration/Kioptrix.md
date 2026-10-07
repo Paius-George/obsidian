@@ -1,5 +1,5 @@
-nmap local pentru aflarea host-urilor din retea![](../../attachments/Pasted%20image%2020261007121647.png)
-
+# 1. Nmap:
+![](../../attachments/Pasted%20image%2020261007121647.png)
 ```
 ┌──(paius㉿kali)-[~]
 └─$ sudo nmap -sC -sV -A 192.168.123.10
@@ -65,11 +65,9 @@ HOP RTT     ADDRESS
 OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 21.43 seconds
 ```
-
-Pe portul 80 (http):
 ![](../../attachments/Pasted%20image%2020261007122009.png)
 
-Rulare metasploit:
+# 2. Metasploit:
 ```
 ┌──(paius㉿kali)-[~]
 └─$ msfconsole
@@ -137,3 +135,20 @@ msf auxiliary(scanner/smb/smb_version) > run
 ```
 
 Astfel, versiunea SMB-ului de pe kioptrix este: **Samba 2.2.1a**.
+
+
+# 3. Searchsploit:
+
+```
+┌──(paius㉿kali)-[~]
+└─$ searchsploit Samba 2.2.1a
+------------------------------------------------------------------------------------------------------------------------------------------------ ---------------------------------
+ Exploit Title                                                                                                                                  |  Path
+------------------------------------------------------------------------------------------------------------------------------------------------ ---------------------------------
+Samba 2.2.0 < 2.2.8 (OSX) - trans2open Overflow (Metasploit)                                                                                    | osx/remote/9924.rb
+Samba < 2.2.8 (Linux/BSD) - Remote Code Execution                                                                                               | multiple/remote/10.c
+Samba < 3.0.20 - Remote Heap Overflow                                                                                                           | linux/remote/7701.txt
+Samba < 3.6.2 (x86) - Denial of Service (PoC)                                                                                                   | linux_x86/dos/36741.py
+------------------------------------------------------------------------------------------------------------------------------------------------ ---------------------------------
+Shellcodes: No Results
+```
