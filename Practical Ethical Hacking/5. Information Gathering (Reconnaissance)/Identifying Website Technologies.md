@@ -5,3 +5,6 @@ https://builtwith.com/
 
 Wappalyzer:
 ![[Pasted image 20261007100819.png]]
+
+whatweb:
+![[Pasted image 20261007101118.png]]
