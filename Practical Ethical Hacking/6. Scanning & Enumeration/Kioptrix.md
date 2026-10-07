@@ -136,4 +136,4 @@ msf auxiliary(scanner/smb/smb_version) > run
 [*] Auxiliary module execution completed
 ```
 
-Astfel, versiunea SMB-ului de pe kioptrix este: **
+Astfel, versiunea SMB-ului de pe kioptrix este: **Samba 2.2.1a**.
