@@ -12,17 +12,17 @@ SELECT * FROM products WHERE category = 'Gifts' AND released = 1
 
 # Rezolvare:
 
-![Pasted image 20260922174928](../../Pasted%20image%2020260922174928.png)
+![Pasted image 20260922174928](../../attachments/Pasted%20image%2020260922174928.png)
 
 Putem observa ca deja putem vedea anumite produse. Asadar, o sa incercam o categorie anume, eu am ales "Lifestyle".
 
-![Pasted image 20260922175056](../../Pasted%20image%2020260922175056.png)
+![Pasted image 20260922175056](../../attachments/Pasted%20image%2020260922175056.png)
 
 Acum ca avem mai putine produse de care putem tine cont, o sa ne mutam in burp.
-![Pasted image 20260922175213](../../Pasted%20image%2020260922175213.png)
+![Pasted image 20260922175213](../../attachments/Pasted%20image%2020260922175213.png)
 
 Vom schimba categoria in: ``'+OR+1=1--`` 
-![Pasted image 20260922175345](../../Pasted%20image%2020260922175345.png)
+![Pasted image 20260922175345](../../attachments/Pasted%20image%2020260922175345.png)
 
 Acum se poate observa ca numele categoriei s-a schimbat in `` ' OR 1=1-- ``
 

@@ -8,8 +8,8 @@ Laboratorul este marcat ca rezolvat în momentul în care trimiți un payload de
 
 ---
 # Rezolvare:
-![Pasted image 20260922184111](../../Pasted%20image%2020260922184111.png)
-![Pasted image 20260922184051](../../Pasted%20image%2020260922184051.png)
+![Pasted image 20260922184111](../../attachments/Pasted%20image%2020260922184111.png)
+![Pasted image 20260922184051](../../attachments/Pasted%20image%2020260922184051.png)
 
 
 ---
