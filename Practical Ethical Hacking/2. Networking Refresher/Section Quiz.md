@@ -1,12 +1,12 @@
-![[Pasted image 20261006144151.png]]
-![[Pasted image 20261006144205.png|610]]
-![[Pasted image 20261006144227.png|610]]
-![[Pasted image 20261006144253.png|609]]
-![[Pasted image 20261006144919.png|611]]
-![[Pasted image 20261006144936.png|611]]
-![[Pasted image 20261006144344.png|611]]
-![[Pasted image 20261006144400.png|613]]
-![[Pasted image 20261006145005.png|615]]
-![[Pasted image 20261006144552.png|614]]![[Pasted image 20261006144645.png|616]]![[Pasted image 20261006144704.png|617]]![[Pasted image 20261006144732.png|617]]
-![[Pasted image 20261006145106.png|617]]
-![[Pasted image 20261006145133.png|619]]
+![Pasted image 20261006144151](../../Pasted%20image%2020261006144151.png)
+![Pasted image 20261006144205](../../Pasted%20image%2020261006144205.png)
+![Pasted image 20261006144227](../../Pasted%20image%2020261006144227.png)
+![Pasted image 20261006144253](../../Pasted%20image%2020261006144253.png)
+![Pasted image 20261006144919](../../Pasted%20image%2020261006144919.png)
+![Pasted image 20261006144936](../../Pasted%20image%2020261006144936.png)
+![Pasted image 20261006144344](../../Pasted%20image%2020261006144344.png)
+![Pasted image 20261006144400](../../Pasted%20image%2020261006144400.png)
+![Pasted image 20261006145005](../../Pasted%20image%2020261006145005.png)
+![Pasted image 20261006144552](../../Pasted%20image%2020261006144552.png)![Pasted image 20261006144645](../../Pasted%20image%2020261006144645.png)![Pasted image 20261006144704](../../Pasted%20image%2020261006144704.png)![Pasted image 20261006144732](../../Pasted%20image%2020261006144732.png)
+![Pasted image 20261006145106](../../Pasted%20image%2020261006145106.png)
+![Pasted image 20261006145133](../../Pasted%20image%2020261006145133.png)

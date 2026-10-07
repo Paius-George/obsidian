@@ -1,7 +1,7 @@
-![[Pasted image 20261006143334.png]]
-![[Pasted image 20261006143308.png]]
-![[Pasted image 20261006143227.png|700]]
-![[Pasted image 20261006143243.png]]
+![Pasted image 20261006143334](../../Pasted%20image%2020261006143334.png)
+![Pasted image 20261006143308](../../Pasted%20image%2020261006143308.png)
+![Pasted image 20261006143227](../../Pasted%20image%2020261006143227.png)
+![Pasted image 20261006143243](../../Pasted%20image%2020261006143243.png)
 
 Subnet Guide: [https://drive.google.com/file/d/1ETKH31-E7G-7ntEOlWGZcDZWuukmeHFe/view](https://drive.google.com/file/d/1ETKH31-E7G-7ntEOlWGZcDZWuukmeHFe/view)
 
