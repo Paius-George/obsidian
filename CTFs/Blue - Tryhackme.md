@@ -13,8 +13,4 @@ PORT    STATE SERVICE
 
 > Astfel, raspunsul este: `3`
 
-```
-┌──(paius㉿kali)-[~]
-└─$ sudo nmap -Pn -A -T4 -p- --script vuln 10.66.172.105
-
-```
+Eternal Blue: ms17-010
