@@ -14,4 +14,7 @@ Ramane sa procedam la fel si cu parola, stiind deja user-ul si schimband valoare
 ![](Pasted%20image%2020261009183401.png)
 ![](Pasted%20image%2020261009183835.png)![](Pasted%20image%2020261009183911.png)
 
-Astfel, 
+Astfel, am obtinut complet credentialele: 
+user: af
+parola: yankees
+
