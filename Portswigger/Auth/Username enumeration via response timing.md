@@ -12,4 +12,6 @@ In pitchfork-ul de mai sus se poate observa cum response-ul pentru user-ul `af` 
 Ramane sa procedam la fel si cu parola, stiind deja user-ul si schimband valoarea de la `X-Forwarded-For` din nou.
 
 ![](Pasted%20image%2020261009183401.png)
-![](Pasted%20image%2020261009183538.png)
+![](Pasted%20image%2020261009183835.png)![](Pasted%20image%2020261009183911.png)
+
+Astfel, 
