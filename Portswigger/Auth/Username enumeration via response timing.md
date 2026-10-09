@@ -9,4 +9,5 @@ Also, am folosit `X-Forwarded-For` pentru a da bypass la rate limit.
 
 In pitchfork-ul de mai sus se poate observa cum response-ul pentru user-ul `af` este semnificativ mai mare decat restul, astfel am aflat ca user-ul valid pe care il cautam este `af`.
 
-Ramane sa procedam la 
+Ramane sa procedam la fel si cu parola, stiind deja user-ul si schimband valoarea de la `X-Forwarded-For` din nou.
+
