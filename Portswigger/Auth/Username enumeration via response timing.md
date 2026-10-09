@@ -5,3 +5,4 @@
 Also, am folosit `X-Forwarded-For` pentru a da bypass la rate limit.
 
 ![](Pasted%20image%2020261009183011.png)
+![](Pasted%20image%2020261009183029.png)
