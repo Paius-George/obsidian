@@ -5,4 +5,8 @@
 Also, am folosit `X-Forwarded-For` pentru a da bypass la rate limit.
 
 ![](Pasted%20image%2020261009183011.png)
-![](Pasted%20image%2020261009183029.png)
+![](Pasted%20image%2020261009183029.png)![](Pasted%20image%2020261009183130.png)
+
+In pitchfork-ul de mai sus se poate observa cum response-ul pentru user-ul `af` este semnificativ mai mare decat restul, astfel am aflat ca user-ul valid pe care il cautam este `af`.
+
+Ramane sa procedam la 
