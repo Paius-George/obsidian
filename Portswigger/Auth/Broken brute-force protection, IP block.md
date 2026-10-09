@@ -5,3 +5,5 @@ Logica: 1 data la 3 attempt-uri nereusite, ne luam ban pe IP. Astfel, stiind cre
 ![](Pasted%20image%2020261009192345.png)
 
 `carlos:superman`
+
+![](Pasted%20image%2020261009192433.png)
