@@ -18,3 +18,4 @@ Astfel, am obtinut complet credentialele:
 user: af
 parola: yankees
 
+![](Pasted%20image%2020261009184056.png)
