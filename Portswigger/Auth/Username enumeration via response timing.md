@@ -4,3 +4,4 @@
 **wiener** fiind un user real are timp de raspuns de 1716 milisecunde, in timp ce **paius**, ce nu este un user real, are timp de raspuns de 55 milisecunde.
 Also, am folosit `X-Forwarded-For` pentru a da bypass la rate limit.
 
+![](Pasted%20image%2020261009182835.png)
