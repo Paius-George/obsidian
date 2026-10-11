@@ -10,4 +10,6 @@ Mai jos se poate observa cum arata /login. Avem un cookie session care se creaza
 ![](../../attachments/Pasted%20image%2020261011180143.png)
 
 Similar cu /login, dar se poate observa ca avem si un mfa-code, care nu are rate limit, deci poate fi bruteforce-uit. 
+Combinand finding-urile de mai sus, putem trimite request-ul in intruder si putem face un bruteforce astfel:
+
 ![](../../attachments/Pasted%20image%2020261011175723.png)
