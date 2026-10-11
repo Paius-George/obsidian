@@ -9,4 +9,4 @@ Format-ul se observa ca este `user:md5hashedpassword`
 Vom folosi:
 base64(carlos:md5(password))
 
-![](../../attachments/Pasted%20image%2020261011184032.png)
+![](../../attachments/Pasted%20image%2020261011184641.png)
