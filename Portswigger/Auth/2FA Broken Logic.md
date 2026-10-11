@@ -14,4 +14,6 @@ Combinand finding-urile de mai sus, putem trimite request-ul in intruder si pute
 
 ![](../../attachments/Pasted%20image%2020261011180344.png)
 
+Am eliminat complet cookie-ul si dam verify pentru user-ul victima (carlos), iar apoi facem bruteforce pe 2fa code.
+
 ![](../../attachments/Pasted%20image%2020261011175723.png)
