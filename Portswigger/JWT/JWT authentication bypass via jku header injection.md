@@ -1,10 +1,2 @@
 
-![](../../attachments/Pasted%20image%2020261013162235.png)
-![](../../attachments/Pasted%20image%2020261013162326.png)
-
-"kid"-ul generat cu noua cheie RSA
-
-![](../../attachments/Pasted%20image%2020261013162428.png)
-
-Link-ul de la exploit 
-
+![](../../attachments/Pasted%20image%2020261013182733.png)
