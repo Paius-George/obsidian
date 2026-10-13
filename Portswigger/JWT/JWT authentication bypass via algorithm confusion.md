@@ -13,3 +13,7 @@
 
 ![](../../attachments/Pasted%20image%2020261013230221.png)
 ![](../../attachments/Pasted%20image%2020261013230242.png)
+
+```
+{"keys":[{"kty":"RSA","e":"AQAB","use":"sig","kid":"fa7e0d96-487b-4a1b-acac-3c8609f1599f","alg":"RS256","n":"9slWMJbnCVIjejjXpHscwPxIxoPuNrU6u16npEkfP4KuXoUF1vW1vhPx5c0C9chyD_ILRKEsTpGqHTlI1PM62975tSHrhj83wWX0aBU-xKew7TwLhZJzMYh_oclpV5hOEW3NwB9aT32BF7gaX-eSz6iPwal5SIVDcm8jnQl5_vGkPzLVFtMq6ubI1yZiPEVfRYS-axoeyi852Mnwz4tE73uB3NWy1QfqR0_GUikg3uMIXQ9B09Y0hyTOwTMaVTiK3x3Yy8dacJO5KIBulqm9XncbmDgNjWQ-X4yeuNgTBS1EPa54HC3GW1FGZsamvEacCSVvzGF5BgMEQl1zS87I5w"}]}
+```
