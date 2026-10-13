@@ -24,4 +24,6 @@ Parametrul "k" are valoarea parametrului "n".
 
 ![](../../attachments/Pasted%20image%2020261013230812.png)
 
-In body am pus key-ul gasit pe jwks.json
+In body am pus key-ul gasit pe jwks.json, apoi am luat PEM si am ecodat ca base64
+
+![](../../attachments/Pasted%20image%2020261013230907.png)
