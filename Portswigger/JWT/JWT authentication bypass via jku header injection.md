@@ -4,3 +4,7 @@
 
 "kid"-ul generat cu noua cheie RSA
 
+![](../../attachments/Pasted%20image%2020261013162428.png)
+
+Link-ul de la exploit 
+
