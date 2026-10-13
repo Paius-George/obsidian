@@ -10,5 +10,5 @@
 /public-keys
 /.well-known
 ```
-![](../../attachments/Pasted%20image%2020261013230037.png)
 
+![](../../attachments/Pasted%20image%2020261013230221.png)
