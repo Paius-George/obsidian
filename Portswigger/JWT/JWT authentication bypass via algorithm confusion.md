@@ -21,3 +21,7 @@
 ![](../../attachments/Pasted%20image%2020261013230455.png)
 
 Parametrul "k" are valoarea parametrului "n".
+
+![](../../attachments/Pasted%20image%2020261013230812.png)
+
+In body am pus key-ul gasit pe jwks.json
