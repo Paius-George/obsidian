@@ -32,3 +32,4 @@ In body am pus key-ul gasit pe jwks.json, apoi am luat PEM si am encodat ca base
 Am creat o noua cheie simetrica, iar in parametrul "k" am pus encodarea din base64
 
 ![](../../attachments/Pasted%20image%2020261013231058.png)
+![](../../attachments/Pasted%20image%2020261013231851.png)
