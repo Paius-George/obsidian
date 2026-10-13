@@ -33,3 +33,6 @@ Am creat o noua cheie simetrica, iar in parametrul "k" am pus encodarea din base
 
 ![](../../attachments/Pasted%20image%2020261013231058.png)
 ![](../../attachments/Pasted%20image%2020261013231851.png)
+![](../../attachments/Pasted%20image%2020261013231912.png)
+![](../../attachments/Pasted%20image%2020261013231931.png)
+![](../../attachments/Pasted%20image%2020261013231947.png)
