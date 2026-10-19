@@ -27,4 +27,5 @@ Am folosit encodare url pe tentativa mea de path traversal (`../`) si a function
 
 Pentru aceasta metoda, am ales sa folosesc intruder alaturi de o lista ce contine mai multe metode de path traversal: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Directory%20Traversal/Intruder/deep_traversal.txt
 
-![](../../attachments/Pasted%20image%2020261019142124.png)
+![700](../../attachments/Pasted%20image%2020261019142124.png)
+![](../../attachments/Pasted%20image%2020261019142325.png)
