@@ -5,4 +5,5 @@ Mai jos se poate observa cum am incercat abordarea de la laboratorul trectut (`W
 ![](../../attachments/Pasted%20image%2020261019140847.png)
 ![](../../attachments/Pasted%20image%2020261019140858.png)
 
-Si a returnat direc
+Si a returnat direct comanda folosita: `<?php echo file_get_contents('/home/carlos/secret'); ?>`
+
