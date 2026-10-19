@@ -23,3 +23,7 @@ Am folosit encodare url pe tentativa mea de path traversal (`../`) si a function
 
 # Metoda 2 (Intruder)
 
+![](../../attachments/Pasted%20image%2020261019141943.png)
+
+Pentru aceasta metoda, am ales sa folosesc intruder alaturi de o lista ce contine mai multe metode de path traversal: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Directory%20Traversal/Intruder/deep_traversal.txt
+
