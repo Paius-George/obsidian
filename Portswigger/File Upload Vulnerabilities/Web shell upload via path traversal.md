@@ -14,4 +14,4 @@ Am incercat simpla metoda de path traversal folosind `../`, dar nu a functionat.
 ![](../../attachments/Pasted%20image%2020261019141445.png)
 ![](../../attachments/Pasted%20image%2020261019141459.png)
 
-Am folosit encodare u
+Am folosit encodare url pe tentativa mea de path traversal (`../`) si a functionat. File-ul este acum uploadat in `avatars/../`, ceea ce inseamna ca acum php-ul meu se afla in 
