@@ -4,4 +4,4 @@ O sa dam bypass la:`Content-Type: image/jpeg`, folosind urmatoarele materiale (p
 https://httpd.apache.org/docs/trunk/en/mod/core.html#sethandler
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types
 
-Asadar, vom uploada un .htacces
+Asadar, vom uploada un .htaccess
