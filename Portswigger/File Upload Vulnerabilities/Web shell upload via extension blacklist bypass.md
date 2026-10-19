@@ -9,3 +9,4 @@ Asadar, vom uploada un .htaccess
 ![](../../attachments/Pasted%20image%2020261019181337.png)
 ![](../../attachments/Pasted%20image%2020261019181649.png)![](../../attachments/Pasted%20image%2020261019181658.png)
 ![](../../attachments/Pasted%20image%2020261019181716.png)
+![](../../attachments/Pasted%20image%2020261019181731.png)
