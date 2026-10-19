@@ -8,3 +8,4 @@ https://hacktricks.wiki/en/pentesting-web/file-upload/index.html
 
 
 ![](../../attachments/Pasted%20image%2020261019183441.png)
+![](../../attachments/Pasted%20image%2020261019184021.png)
