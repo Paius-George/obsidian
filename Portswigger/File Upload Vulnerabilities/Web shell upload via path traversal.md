@@ -7,3 +7,6 @@ Mai jos se poate observa cum am incercat abordarea de la laboratorul trectut (`W
 
 Si a returnat direct comanda folosita: `<?php echo file_get_contents('/home/carlos/secret'); ?>`
 
+![](../../attachments/Pasted%20image%2020261019141318.png)
+
+Am incercat simpla metoda de path traversal folosind `../`, dar nu a functionat. File-ul meu a fost uploadat tot in `avatars`.
