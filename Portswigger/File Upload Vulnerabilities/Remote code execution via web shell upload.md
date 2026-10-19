@@ -8,3 +8,6 @@ Am schimbat extensia din `jpeg` in `php`, cat si content-ul file-ului.
 
 Astfel, acum dintr-un avatar de tip imagine avem un cod php.
 
+![](../../attachments/Pasted%20image%2020261019133202.png)
+
+Am folosit `<? p`
