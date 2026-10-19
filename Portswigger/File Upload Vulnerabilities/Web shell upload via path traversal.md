@@ -10,3 +10,8 @@ Si a returnat direct comanda folosita: `<?php echo file_get_contents('/home/carl
 ![](../../attachments/Pasted%20image%2020261019141318.png)
 
 Am incercat simpla metoda de path traversal folosind `../`, dar nu a functionat. File-ul meu a fost uploadat tot in `avatars`.
+
+![](../../attachments/Pasted%20image%2020261019141445.png)
+![](../../attachments/Pasted%20image%2020261019141459.png)
+
+Am folosit encodare u
