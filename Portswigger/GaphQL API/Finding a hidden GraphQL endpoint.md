@@ -20,4 +20,4 @@ Nu a functionat, asadar am ajuns la urmatoarea solutie: `GET /api?query=%7B__sch
   }
 }
 ```
-
+![](../../attachments/Pasted%20image%2020261021140512.png)
