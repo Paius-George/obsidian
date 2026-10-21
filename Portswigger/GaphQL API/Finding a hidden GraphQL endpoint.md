@@ -24,4 +24,4 @@ Nu a functionat, asadar am ajuns la urmatoarea solutie: `GET /api?query=%7B__sch
 ![](../../attachments/Pasted%20image%2020261021140918.png)
 ![](../../attachments/Pasted%20image%2020261021140940.png)
 ![](../../attachments/Pasted%20image%2020261021140955.png)
-![](../../attachments/Pasted%20image%2020261021141211.png)
+![](../../attachments/Pasted%20image%2020261021141211.png)![](../../attachments/Pasted%20image%2020261021141226.png)
