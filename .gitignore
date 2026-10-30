@@ -1,0 +1,5 @@
+
+# Device state and temporary files
+.DS_Store
+.obsidian/
+.trash/
