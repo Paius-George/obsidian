@@ -1,5 +1,6 @@
 
 # Device state and temporary files
 .DS_Store
+# Keep device-specific Obsidian settings and plugin data local
 .obsidian/
 .trash/
