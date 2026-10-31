@@ -1,4 +1,4 @@
-![[Pasted image 20261030192924.png]]
-![[Pasted image 20261030194448.png]]
-![[Pasted image 20261030194654.png]]
-![[Pasted image 20261030194730.png]]
+![](../../attachments/Pasted%20image%2020261030192924.png)
+![](../../attachments/Pasted%20image%2020261030194448.png)
+![](../../attachments/Pasted%20image%2020261030194654.png)
+![](../../attachments/Pasted%20image%2020261030194730.png)
